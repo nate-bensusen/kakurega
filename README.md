@@ -15,6 +15,8 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 
 Modifications:
 
+- wood shelf
+
 Add-ons:
 
 - roof rack
@@ -31,3 +33,5 @@ Potential Projects/Future Upgrades:
 - tires
 - shocks
 - window tints 35/25/5(states legal?)
+- alarm
+- cat shield or rebar welded
