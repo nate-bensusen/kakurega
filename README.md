@@ -11,14 +11,14 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 |Year|2004|
 |Liters|4.7|
 |Cylinders|V8|
-|4WD||
+|Drive|4WD|
+|MPG|15/19|
 
 Modifications:
 
-- wood shelf
-
 Add-ons:
 
+- rear wood shelf
 - roof rack
 - hitch cargo rack
 - hitch bike rack
