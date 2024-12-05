@@ -35,7 +35,7 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 - deep cycle + alternator upgrade
 - spare swing gate
 - shocks
-- tires
+- tireshttps://www.bfgoodrichtires.com/auto/tires/all-terrain-t-a-ko3
 - second gas tank
 - alarm
 - cat shield or rebar welded
