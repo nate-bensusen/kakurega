@@ -6,13 +6,14 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 
 |||
 |-|-|
-|Brand|Toyota|
-|Model|4Runner|
-|Year|2004|
-|Liters|4.7|
-|Cylinders|V8|
-|Drive|4WD|
-|MPG|15/19|
+|**Brand**|Toyota|
+|**Model**|4Runner|
+|**Year**|2004|
+|**Liters**|4.7|
+|**Cylinders**|V8|
+|**Drive**|4WD|
+|**MPG**|15/19|
+|||
 
 [Vehicle Emergency Bag](vehicle_emergency_bag.md)
 
