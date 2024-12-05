@@ -14,28 +14,43 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 |Drive|4WD|
 |MPG|15/19|
 
-## Modifications:
+[Vehicle Emergency Bag](vehicle_emergency_bag.md)
 
-## Add-ons:
+## Add-ons
 
-- [rear shelf](shelf.md)
+### off shelf:
+
+- BRAND WEATHER MATS
 - [roof rack](roof_rack.md)
 - [hitch cargo rack](hitch_cargo_rack.md)
 - [hitch bike rack](hitch_bike_rack.md)
+- walkie talkies
+  - 4 center console
+  - 6 rear shelf
+- 2x BRAND full car seat
+- BRAND car booster seat
 
-## Future Upgrades:
+### DIY:
+
+- [rear shelf](shelf.md)
+- sunroof starlink net mount
+
+## Modifications
+
+### to install:
 
 - [interior rear molle panels](https://radodesignsco.com/products/2006-2009-toyota-4runner-complete-molle-setup)
-  - In hand. Need to install.
 - [drop-in kill switch](https://41twentytwo.com/product/vehicle-kill-switch/?srsltid=AfmBOorZS5GheO_y4A-6SjH9RFNpujMs9L74ZfeDvTJ2v-zqq-iQINJf)
 
-## Potential Projects
+### installed:
+
+## Potential Future Add-ons or Mods
 
 - window tints 35/25/5(states legal?)
-- deep cycle + alternator upgrade
+- deep cycle battery + alternator upgrade
 - spare swing gate
 - shocks
-- tireshttps://www.bfgoodrichtires.com/auto/tires/all-terrain-t-a-ko3
+- [tires](https://www.bfgoodrichtires.com/auto/tires/all-terrain-t-a-ko3)
 - second gas tank
 - alarm
 - cat shield or rebar welded
