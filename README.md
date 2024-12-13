@@ -18,13 +18,18 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 ## Add-ons
 
 - off shelf
-  - BRAND WEATHER MATS
-  - [roof rack](roof_rack.md)
-  - [hitch cargo rack](hitch_cargo_rack.md)
-  - [hitch bike rack](hitch_bike_rack.md)
-  - OBD2 key programmer
+  - Weather mats
+    - BRAND WEATHER MATS
+  - Roof rack
+    - [MAXXHAUL 50506 64" x 39" x 6" Heavy-Duty Universal Steel Roof Rack](roof_rack.md)
+  - Hitch mount cargo carrier  
+    - [MaxxHaul 50149 500-lb Capacity 50 inch x 22 inch Hitch Mount Premium Folding Aluminum Cargo Carrier](hitch_cargo_rack.md)
+  - Hitch mount bike rack  
+    - [MaxxHaul 50250 Hitch Mount 2-Arm Style 4 Bike Rack](hitch_bike_rack.md)
+  - OBD2 Key Programmer  
+    - [LEXUS / TOYOTA OBD2 PROGRAMMER for 4D CHIP / DOT KEYS](obd2_key_copy.md)
 - DIY
-  - [rear shelf](shelf.md)
+  - [Rear shelf](shelf.md)
   - sunroof starlink net mount
 
 [Vehicle Emergency Bag](vehicle_emergency_bag.md)
