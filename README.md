@@ -18,8 +18,8 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 ## Add-ons
 
 - off shelf
-  - Weather mats
-    - BRAND WEATHER MATS
+  - BRAND floor weather mats
+    - added by previous owner
   - [Roof rack](roof_rack.md)
   - [Hitch mount cargo carrier](hitch_cargo_rack.md)
   - [Hitch mount bike rack](hitch_bike_rack.md)
