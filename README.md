@@ -15,31 +15,25 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 |**MPG**|15/19|
 |||
 
-[Vehicle Emergency Bag](vehicle_emergency_bag.md)
-
 ## Add-ons
 
-### off shelf
+- off shelf
+  - BRAND WEATHER MATS
+  - [roof rack](roof_rack.md)
+  - [hitch cargo rack](hitch_cargo_rack.md)
+  - [hitch bike rack](hitch_bike_rack.md)
+  - OBD2 key programmer
+- DIY
+  - [rear shelf](shelf.md)
+  - sunroof starlink net mount
 
-- BRAND WEATHER MATS
-- [roof rack](roof_rack.md)
-- [hitch cargo rack](hitch_cargo_rack.md)
-- [hitch bike rack](hitch_bike_rack.md)
-- OBD2 key programmer
-
-### DIY
-
-- [rear shelf](shelf.md)
-- sunroof starlink net mount
+[Vehicle Emergency Bag](vehicle_emergency_bag.md)
 
 ## Modifications
 
-### to install
-
-- [interior rear molle panels](https://radodesignsco.com/products/2006-2009-toyota-4runner-complete-molle-setup)
-- [drop-in kill switch](https://41twentytwo.com/product/vehicle-kill-switch/?srsltid=AfmBOorZS5GheO_y4A-6SjH9RFNpujMs9L74ZfeDvTJ2v-zqq-iQINJf)
-
-### installed
+- to be installed
+  - [interior rear molle panels](https://radodesignsco.com/products/2006-2009-toyota-4runner-complete-molle-setup)
+  - [drop-in kill switch](https://41twentytwo.com/product/vehicle-kill-switch/?srsltid=AfmBOorZS5GheO_y4A-6SjH9RFNpujMs9L74ZfeDvTJ2v-zqq-iQINJf)
 
 ## Potential Future Add-ons or Mods
 
