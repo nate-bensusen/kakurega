@@ -6,6 +6,12 @@
 
 - sturdier wood
 - cut to fit more snug
+- buy felt, black or dark green?
+  - enough to cover the top and bottom.
+  - glued or stapled on
+  - the old shelf wood dimensions:
+    - 54x28x1
+    - 2 yards of 72" will be more that enough.
 
 ## history
 
