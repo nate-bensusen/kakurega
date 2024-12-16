@@ -24,6 +24,7 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
   - [Hitch mount cargo carrier](hitch_cargo_rack.md)
   - [Hitch mount bike rack](hitch_bike_rack.md)
   - [OBD2 Key Programmer](obd2_key_copy.md)
+  - Off-Road Traction Boards
 - DIY
   - [Rear shelf](shelf.md)
   - sunroof starlink net mount
