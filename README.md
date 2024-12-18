@@ -15,7 +15,18 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 |**MPG**|15/19|
 |||
 
+## Mods
+
+- [Rear MOLLE panels & shelf](molle_panels.md)
+  - [Ouch Pouch First Aid Kit](ouch_pouch.md)
+
+### to be installed
+
+- [drop-in kill switch](https://41twentytwo.com/product/vehicle-kill-switch/?srsltid=AfmBOorZS5GheO_y4A-6SjH9RFNpujMs9L74ZfeDvTJ2v-zqq-iQINJf)
+
 ## Add-ons
+
+- [Vehicle Emergency Bag](vehicle_emergency_bag.md)
 
 ### off shelf
 
@@ -31,17 +42,6 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 
 - [Rear shelf](shelf.md)
 - sunroof starlink net mount
-
-[Vehicle Emergency Bag](vehicle_emergency_bag.md)
-
-## Modifications
-
-- [Rear MOLLE panels & shelf](molle_panels.md)
-  - [Ouch Pouch First Aid Kit](ouch_pouch.md)
-
-### to be installed
-
-- [drop-in kill switch](https://41twentytwo.com/product/vehicle-kill-switch/?srsltid=AfmBOorZS5GheO_y4A-6SjH9RFNpujMs9L74ZfeDvTJ2v-zqq-iQINJf)
 
 ## Potential Future Add-ons or Mods
 
