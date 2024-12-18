@@ -26,7 +26,12 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 
 ## Add-ons
 
-- [Vehicle Emergency Bag](vehicle_emergency_bag.md)
+[Vehicle Emergency Bag](vehicle_emergency_bag.md)
+
+### DIY
+
+- [Rear shelf](shelf.md)
+- sunroof starlink net mount
 
 ### off shelf
 
@@ -37,11 +42,6 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 - [Hitch mount bike rack](hitch_bike_rack.md)
 - [OBD2 Key Programmer](obd2_key_copy.md)
 - Off-Road Traction Boards
-
-### DIY
-
-- [Rear shelf](shelf.md)
-- sunroof starlink net mount
 
 ## Potential Future Add-ons or Mods
 
