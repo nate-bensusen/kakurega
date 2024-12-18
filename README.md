@@ -23,7 +23,6 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 
 ### to be installed
 
-
 ## Add-ons
 
 [Vehicle Emergency Bag](vehicle_emergency_bag.md)
