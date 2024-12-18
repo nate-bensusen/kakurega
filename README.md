@@ -51,7 +51,7 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 - spare swing gate
 - shocks
 - [tires](https://www.bfgoodrichtires.com/auto/tires/all-terrain-t-a-ko3)
-- second gas tank
+- [second gas tank](https://exitoffroad.com/product/lexus-gx470-4th-gen-4runner-long-range-auxiliary-fuel-tank-24gal/?_gl=1*z8bdkw*_up*MQ..&gclid=EAIaIQobChMIuJzW17rDiQMVdklHAR01uS5AEAQYBSABEgLz-fD_BwE&gbraid=0AAAAABILP0fGKN0VDYUNqOBil6LWmF4uj)
 - alarm
 - cat shield or rebar welded
 - lift
