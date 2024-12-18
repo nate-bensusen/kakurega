@@ -18,7 +18,8 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 ## Mods
 
 - [Rear MOLLE panels & shelf](molle_panels.md)
-  - [Ouch Pouch First Aid Kit](ouch_pouch.md)
+  - [Ouch Pouch - First Aid Kit](ouch_pouch.md)
+  - Fire extinguisher mount kit
 
 ### to be installed
 
