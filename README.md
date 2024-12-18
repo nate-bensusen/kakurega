@@ -54,4 +54,6 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 - [second gas tank](https://exitoffroad.com/product/lexus-gx470-4th-gen-4runner-long-range-auxiliary-fuel-tank-24gal/?_gl=1*z8bdkw*_up*MQ..&gclid=EAIaIQobChMIuJzW17rDiQMVdklHAR01uS5AEAQYBSABEgLz-fD_BwE&gbraid=0AAAAABILP0fGKN0VDYUNqOBil6LWmF4uj)
 - alarm
 - cat shield or rebar welded
+- [skid plates](https://exitoffroad.com/product-category/toyota/4runner/4runner-4th-gen/skid-plates-sliders-4th-gen-4runner/?_gl=1*ip34ay*_up*MQ..&gclid=EAIaIQobChMIuJzW17rDiQMVdklHAR01uS5AEAQYBSABEgLz-fD_BwE&gbraid=0AAAAABILP0fGKN0VDYUNqOBil6LWmF4uj)
 - lift
+- [rear drawers](https://exitoffroad.com/product/dobinsons-drawers-for-4th-gen-4runner-2003-2009/?_gl=1*1bwb0dw*_up*MQ..&gclid=EAIaIQobChMIuJzW17rDiQMVdklHAR01uS5AEAQYBSABEgLz-fD_BwE&gbraid=0AAAAABILP0fGKN0VDYUNqOBil6LWmF4uj) (would replace DIY shelf)
