@@ -25,15 +25,15 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 ## Mods
 
 - [Rear MOLLE panels & shelf](molle_panels.md)
-- [Rear shelf](shelf.md)
+- [Rear shelf](shelf.md) (currently in rebuild phase)
 
-## Optional
+## Options
 
-- [Roof rack](roof_rack.md)
+- [Roof rack](roof_rack.md) (some assembly still required)
 - [Hitch mount cargo carrier](hitch_cargo_rack.md)
 - [Hitch mount bike rack](hitch_bike_rack.md)
 - [Off-Road Traction Boards](recovery.md)
-
+- [Wavian Gas Can Red 20 Liter](https://wavianusa.com/wavian-gas-can-red-20-liter.html?cgid=wavian-fuel-cans)
 
 ## Later Ideas
 
@@ -49,4 +49,7 @@ Kakurega is a Japanese word that means hiding place, refuge, or hideout.
 - lift
 - [rear drawers](https://exitoffroad.com/product/dobinsons-drawers-for-4th-gen-4runner-2003-2009/?_gl=1*1bwb0dw*_up*MQ..&gclid=EAIaIQobChMIuJzW17rDiQMVdklHAR01uS5AEAQYBSABEgLz-fD_BwE&gbraid=0AAAAABILP0fGKN0VDYUNqOBil6LWmF4uj) (would replace DIY shelf)
   - [WING SIDE PANEL KIT](https://exitoffroad.com/product/dobinsons-dw59-036k-wing-side-panel-kit-for-4th-gen-4runner/?_gl=1*1bwb0dw*_up*MQ..&gclid=EAIaIQobChMIuJzW17rDiQMVdklHAR01uS5AEAQYBSABEgLz-fD_BwE&gbraid=0AAAAABILP0fGKN0VDYUNqOBil6LWmF4uj)
-  
+- winch
+- recovery straps
+- soft shackle
+- air compressor
